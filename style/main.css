@@ -150,7 +150,7 @@ body {
 }
 
 .eight svg:nth-child(1) {
-  fill: #bd6ecf;
+  fill: #cda800;
   left: 5vw;
   top: 7vh;
 }
@@ -186,7 +186,7 @@ body {
 }
 
 .eight svg:nth-child(7) {
-  fill: #e3bae8;
+  fill: #e2c67a;
   left: 83vw;
   top: 68vh;
 }
